@@ -14,11 +14,11 @@ Salary
 Purchased (Yes/No)
 
 
-🔧 What is Data Preprocessing?
+# 🔧 What is Data Preprocessing?
 
 Data preprocessing is the process of cleaning and preparing raw data to make it suitable for analysis or machine learning. It includes handling missing values, encoding categorical data, and scaling numerical values.
 
-✅ Key Steps Performed:
+# ✅ Key Steps Performed:
 
 Handling missing values (in Age and Salary)
 
@@ -47,7 +47,7 @@ Product_Quality (Low, Medium, High)
 Satisfaction_Level (Poor, Average, Good, Excellent)
 
 
-🔧 What is Ordinal Encoding?
+# 🔧 What is Ordinal Encoding?
 
 Ordinal Encoding is used to convert ordered categories into numbers based on their rank.
 Example:
@@ -55,7 +55,7 @@ Example:
 Poor → 0, Average → 1, Good → 2, Excellent → 3
 
 
-🛠 Tools Used:
+# 🛠 Tools Used:
 
 Python
 
