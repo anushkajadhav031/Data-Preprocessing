@@ -36,7 +36,32 @@ data={
     'Satisfacation_Level':['Poor','Average','Excellent','Good','Average','Poor','Average','Excellent']
 }
 df=pd.DataFrame(data)
+📁 Dataset Columns:
 
+CustomerID
+
+Education_Level (High School, Bachelors, Masters, PHD)
+
+Product_Quality (Low, Medium, High)
+
+Satisfaction_Level (Poor, Average, Good, Excellent)
+
+
+🔧 What is Ordinal Encoding?
+
+Ordinal Encoding is used to convert ordered categories into numbers based on their rank.
+Example:
+
+Poor → 0, Average → 1, Good → 2, Excellent → 3
+
+
+🛠 Tools Used:
+
+Python
+
+Pandas
+
+Scikit-learn
 
 🛠 Tools Used:
 
