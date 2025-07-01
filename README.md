@@ -26,7 +26,7 @@ Encoding categorical data (Country and Purchased)
 
 Feature scaling (standardizing Age and Salary)
 
-### Ordinal Encoding
+# Ordinal Encoding
 
 # Sample data
 data={
