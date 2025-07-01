@@ -26,6 +26,17 @@ Encoding categorical data (Country and Purchased)
 
 Feature scaling (standardizing Age and Salary)
 
+### Ordinal Encoding
+
+# Sample data
+data={
+    'CustomerID':['C001','C002','C003','C004','C005','C006','C007','C008'],
+    'Education_Level':['High School','Bachelors','Masters','PHD','Bachelors','High School','PHD','Masters'],
+    'Product_Quality':['Low','Medium','High','Medium','Low','High','Medium','High'],
+    'Satisfacation_Level':['Poor','Average','Excellent','Good','Average','Poor','Average','Excellent']
+}
+df=pd.DataFrame(data)
+
 
 🛠 Tools Used:
 
